@@ -1,0 +1,112 @@
+baseURL = "http://localhost/"
+languageCode = "de-de"
+title = "Christina Freyer"
+theme = "initio"
+
+
+[params]
+  banner = "img/header.jpg"
+  author = "Christina Freyer"
+  name = "Christina Freyer"
+  description = "Ihre Partnerin für Sprachmittlung und interkulturelle Kommunikation"
+  showSubheader = true
+  showServices = true
+  showContact = true
+  showAbout = true
+showfuerAuftraggeber = true
+showRecentWorks = false
+  DateForm = "January 2, 2006"
+  about = "Konferenzdolmetschen"
+  phone = "+49 151 75 00 6865"
+  address = "Saportastraße 2, 80637 München"
+  year = 2025
+  avatar = "img/avatar.jpg"
+  avatarclass = "circle"
+  background = ""
+
+
+
+[[menu.main]]
+    name = "home"
+    url = "/"
+    weight = 1
+[[menu.main]]
+    name = "profil"
+    url = "/profil"
+    weight = 5
+[[menu.main]]
+    name = "Sprachen"
+    url = "/Sprachen"
+    weight = 10
+[[menu.main]]
+    name = "Fachgebiete"
+    url = "/Fachgebiete"
+    weight = 11
+
+[params.disqus]
+    site = "hugo-initio-site.disqus.com"
+
+[params.sharethis]
+    property = "123456789012345678901234"
+    custom = true
+
+[params.google.analytics]
+    trackerID = "GA-000000000-0"
+
+[[params.social]]
+	title = "facebook"
+	url = "https://www.facebook.com/nickname"
+    icon = "fab fa-facebook-square"
+    footer = true
+    sharethis = true
+    network = "facebook"
+[[params.social]]
+	title = "twitter"
+	url = "https://twitter.com/nickname"
+    icon = "fab fa-twitter-square"
+    footer = true
+    sharethis = true
+    network = "twitter"
+[[params.social]]
+	title = "instagram"
+	url = "https://www.instagram.com/nickname"
+    icon = "fab fa-instagram"
+    footer = true
+    sharethis = false
+    network = ""
+[[params.social]]
+	title = "google+"
+	url = "https://plus.google.com/+nickname"
+    icon = "fab fa-google-plus-square"
+    footer = false
+    sharethis = true
+    network = "googleplus"
+[[params.social]]
+	title = "linkedin"
+	url = "https://www.linkedin.com/in/nickname"
+    icon = "fab fa-linkedin"
+    footer = false
+    sharethis = true
+    network = "linkedin"
+[[params.social]]
+	title = "tumblr"
+	url = "https://nickname.tumblr.com"
+    icon = "fab fa-tumblr-square"
+    footer = false
+    sharethis = false
+    network = "tumblr"
+[[params.social]]
+	title = "github"
+	url = "https://github.com/nickname"
+    icon = "fab fa-github"
+    footer = true
+    sharethis = false
+    network = ""
+[[params.social]]
+	title = "email"
+	url = "mailto:info@freyer-translation.de"
+    icon = "fas fa-envelope-square"
+    footer = true
+    sharethis = true
+    network = "email"
+
