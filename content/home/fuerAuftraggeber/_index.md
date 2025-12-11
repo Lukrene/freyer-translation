@@ -28,6 +28,10 @@ Klare Informationen zum Setting
 
 Zeit, Ort, technisches Equipment, Beteiligte und Kommunikationswege (vor Ort, hybrid, online). Gerade bei Remote-Einsätzen sind diese Angaben essenziell für die Planung.
 
+Testlauf & Technik
+
+Für Remote-Formate vereinbaren wir einen kurzen Technik-Check (Ton, Kameras, Plattform, Back-up-Link). Bei Präsenz-Events stimmen wir Kabine, PFA oder Saal-Mikrofonierung ab.
+
 
 
 Angemessene Arbeitsbedingungen
@@ -39,6 +43,10 @@ Dolmetschen erfordert höchste Konzentration. Dazu zählen ausreichend lange Pau
 Planungssicherheit
 
 Je nach Setting wird eine Buchung im Voraus notwendig. Kurzfristige Änderungen sollten abgesprochen werden.
+
+Rechtliches und Sicherheit
+
+Damit alle Beteiligten geschützt sind, bestätigen wir Verschwiegenheit, Daten- und IT-Sicherheit sowie Foto- und Aufzeichnungsregeln vorab schriftlich.
 
 
 
