@@ -28,6 +28,7 @@ canonifyURLs = true
   avatar = "/img/logo.svg"
   avatarclass = "circle"
   logo = ""
+  headerImage = "img/header.jpg"
   background = ""
 
 
@@ -68,15 +69,6 @@ canonifyURLs = true
     name = "UX-Research"
     url = "/ux-research/"
     weight = 20
-[[menu.main]]
-    name = "Impressum"
-    url = "/impressum/"
-    weight = 30
-[[menu.main]]
-    name = "AGB"
-    url = "/agb/"
-    weight = 32
-
 [[menu.footer]]
     name = "Impressum"
     url = "/impressum/"
