@@ -1,7 +1,8 @@
 +++
-title = "Preisbildung"
+title = "Preise & Preisbildung"
 type = "about"
-weight = 15
+weight = 14
+url = "/preise-preisbildung/"
 +++
 
 ## Dolmetschen
@@ -24,4 +25,13 @@ weight = 15
 * Setting (Präsenz, hybrid, remote) und technische Anforderungen
 * Anzahl der Sprachen und Dolmetschmodi
 
-Ich erstelle gern ein transparentes, schriftliches Angebot – inkl. Zeitplan, Teamstärke und technischen Voraussetzungen.
+## Preisbildung & Transparenz
+
+Ich erstelle ein **schriftliches, transparentes Angebot** mit:
+
+* Leistungsbeschreibung (Dolmetschen, Übersetzen, Terminologiepflege)
+* Zeitplan, Teamstärke und technischen Voraussetzungen
+* Spesen- und Reisekostenregelung
+* Stornobedingungen nach Branchenstandard
+
+So sehen Sie vorab, welche Leistungen enthalten sind – ohne Überraschungen.

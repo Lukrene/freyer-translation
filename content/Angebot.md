@@ -1,7 +1,6 @@
 +++
 title = "Angebot"
 type = "about"
-menu = "main"
 weight = 6
 +++
 

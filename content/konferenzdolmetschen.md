@@ -1,8 +1,8 @@
 +++
-menu = "main"
 title = "Konferenzdolmetschen & Übersetzen"
 type = "about"
 weight = 10
+url = "/konferenzdolmetschen/"
 +++
 
 Da sich in der internationalen Fach- und Geschäftskommunikation noch keine einheitliche lingua franca endgültig durchgesetzt hat, die alle Akteure auf dem entsprechenden Niveau beherrschen, sind **Fachübersetzer** und **-dolmetscher** unentbehrlich. **Diskret, flexibel und kompetent** vermittle ich Ihre Botschaft an Ihren Gesprächspartner in seiner (Fach-)Sprache.

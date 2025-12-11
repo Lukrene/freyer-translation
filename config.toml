@@ -16,6 +16,7 @@ relativeURLs = true
   showContact = true
   showAbout = true
   showfuerAuftraggeber = true
+  showDownloads = false
   showRecentWorks = false
   DateForm = "January 2, 2006"
   about = "Konferenzdolmetschen"
@@ -23,57 +24,59 @@ relativeURLs = true
   address = "Saportastraße 2, 80637 München"
   email = "info@freyer-translation.de"
   year = 2025
-  avatar = "img/avatar.svg"
-  avatarclass = "circle"
-  logo = "img/logo.svg"
+  avatar = "img/logo.svg"
+  avatarclass = "square"
+  logo = ""
   background = ""
 
 
 
 [[menu.main]]
-    name = "home"
+    name = "Home"
     url = "/"
     weight = 1
 [[menu.main]]
-    name = "profil"
-    url = "/profil"
+    name = "Konferenzdolmetschen & Übersetzen"
+    url = "/konferenzdolmetschen/"
+    weight = 4
+[[menu.main]]
+    name = "Profil"
+    url = "/profil/"
     weight = 5
 [[menu.main]]
-    name = "Angebot"
-    url = "/angebot"
-    weight = 6
-[[menu.main]]
     name = "Sprachen"
-    url = "/Sprachen"
+    url = "/sprachen/"
     weight = 10
 [[menu.main]]
     name = "Fachgebiete"
-    url = "/Fachgebiete"
+    url = "/fachgebiete/"
     weight = 11
 [[menu.main]]
-    name = "Qualität"
-    url = "/qualitaet"
+    name = "Qualität & Professionalität"
+    url = "/qualitaet-professionalitaet/"
     weight = 12
 [[menu.main]]
-    name = "Rechtliches"
-    url = "/rechtliches"
-    weight = 13
-[[menu.main]]
-    name = "Referenzen"
-    url = "/referenzen"
+    name = "Preise & Preisbildung"
+    url = "/preise-preisbildung/"
     weight = 14
 [[menu.main]]
-    name = "Preise"
-    url = "/preise"
-    weight = 15
-[[menu.main]]
-    name = "Professionalisierung"
-    url = "/professionalisierung"
+    name = "Referenzen"
+    url = "/referenzen/"
     weight = 16
 [[menu.main]]
     name = "UX-Research"
-    url = "/ux-research"
+    url = "/ux-research/"
     weight = 20
+
+[[menu.footer]]
+    name = "Impressum"
+    url = "/impressum/"
+    weight = 1
+
+[[menu.footer]]
+    name = "AGB"
+    url = "/agb/"
+    weight = 2
 
 [params.disqus]
     site = "hugo-initio-site.disqus.com"
@@ -86,59 +89,10 @@ relativeURLs = true
     trackerID = "GA-000000000-0"
 
 [[params.social]]
-	title = "facebook"
-	url = "https://www.facebook.com/nickname"
-    icon = "fab fa-facebook-square"
+        title = "linkedin"
+        url = "https://www.linkedin.com/in/nickname"
+    icon = "fab fa-linkedin-in"
     footer = true
-    sharethis = true
-    network = "facebook"
-[[params.social]]
-	title = "twitter"
-	url = "https://twitter.com/nickname"
-    icon = "fab fa-twitter-square"
-    footer = true
-    sharethis = true
-    network = "twitter"
-[[params.social]]
-	title = "instagram"
-	url = "https://www.instagram.com/nickname"
-    icon = "fab fa-instagram"
-    footer = true
-    sharethis = false
-    network = ""
-[[params.social]]
-	title = "google+"
-	url = "https://plus.google.com/+nickname"
-    icon = "fab fa-google-plus-square"
-    footer = false
-    sharethis = true
-    network = "googleplus"
-[[params.social]]
-	title = "linkedin"
-	url = "https://www.linkedin.com/in/nickname"
-    icon = "fab fa-linkedin"
-    footer = false
     sharethis = true
     network = "linkedin"
-[[params.social]]
-	title = "tumblr"
-	url = "https://nickname.tumblr.com"
-    icon = "fab fa-tumblr-square"
-    footer = false
-    sharethis = false
-    network = "tumblr"
-[[params.social]]
-	title = "github"
-	url = "https://github.com/nickname"
-    icon = "fab fa-github"
-    footer = true
-    sharethis = false
-    network = ""
-[[params.social]]
-	title = "email"
-	url = "mailto:info@freyer-translation.de"
-    icon = "fas fa-envelope-square"
-    footer = true
-    sharethis = true
-    network = "email"
 

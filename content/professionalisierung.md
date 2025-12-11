@@ -1,7 +1,6 @@
 +++
 title = "Professionalisierung"
 type = "about"
-menu = "main"
 weight = 16
 +++
 

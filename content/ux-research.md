@@ -1,8 +1,8 @@
 +++
 title = "UX-Research"
 type = "about"
-menu = "main"
 weight = 20
+url = "/ux-research/"
 +++
 
 Als **UX-Researcherin** analysiere ich digitale Produkte mit demselben Qualitätsanspruch wie Dolmetscheinsätze: strukturiert, evidenzbasiert und nutzerzentriert. Meine wissenschaftliche Arbeit *„Dolmetscher:innen im deutschsprachigen Web“* kombiniert Inhaltsanalyse, Heuristik und Nutzerfeedback – diese Methodik biete ich auch für Ihre Website oder Plattform an.

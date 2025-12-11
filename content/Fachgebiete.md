@@ -1,8 +1,8 @@
 +++
-menu = "main"
 title = "Fachgebiete"
 type = "about"
 weight = 11
+url = "/fachgebiete/"
 +++
 
 Ich arbeite regelmäßig in diesen Bereichen:
