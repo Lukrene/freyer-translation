@@ -1,5 +1,4 @@
 +++
-menu = "main"
 title = "Konferenzdolmetschen & Übersetzen"
 type = "about"
 weight = 10
