@@ -3,7 +3,7 @@ title = "Dolmetschen"
 type = "about"
 +++
 
-Als professionelle Dolmetscherin biete ich verschiedene **Dolmetschmodi** an – je nach Setting und Kommunikationsform
+Als professionelle Dolmetscherin biete ich verschiedene **Dolmetschmodi** an – je nach Setting und Kommunikationsform. Meine Arbeitssprachen sind **Deutsch, Russisch, Ukrainisch** sowie passiv **Englisch und Französisch**.
 
 <!--more-->
 

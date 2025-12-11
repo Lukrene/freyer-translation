@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 520" aria-labelledby="title desc">
+  <title>Christina Freyer Logo</title>
+  <desc>Monogram logo mit kreisförmigem C und Kreuzform.</desc>
+  <rect width="400" height="520" fill="white"/>
+  <path d="M200 28c-110 0-196 98-196 232s86 232 196 232c44 0 80-12 116-38l-38-53c-21 16-47 25-78 25-87 0-142-76-142-166S113 94 200 94c29 0 55 8 77 24l39-54C282 42 241 28 200 28z" fill="#000"/>
+  <rect x="188" y="18" width="24" height="484" fill="#000"/>
+  <rect x="92" y="246" width="216" height="36" fill="#000"/>
+  <circle cx="330" cy="472" r="12" fill="#000"/>
+</svg>
