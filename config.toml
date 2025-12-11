@@ -2,7 +2,8 @@ baseURL = "https://lukrene.github.io/freyer-translation/"
 languageCode = "de-de"
 title = "Christina Freyer"
 theme = "initio"
-relativeURLs = true
+relativeURLs = false
+canonifyURLs = true
 
 
 
@@ -27,6 +28,7 @@ relativeURLs = true
   avatar = "img/logo.svg"
   avatarclass = "circle"
   logo = ""
+  headerImage = "img/header.jpg"
   background = ""
 
 
@@ -67,15 +69,6 @@ relativeURLs = true
     name = "UX-Research"
     url = "/ux-research/"
     weight = 20
-[[menu.main]]
-    name = "Impressum"
-    url = "/impressum/"
-    weight = 30
-[[menu.main]]
-    name = "AGB"
-    url = "/agb/"
-    weight = 32
-
 [[menu.footer]]
     name = "Impressum"
     url = "/impressum/"
