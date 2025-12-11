@@ -6,11 +6,12 @@
       {{ end }}
       <img class='img-{{ .Site.Params.avatarclass | default "circle"}}' src="{{ .Site.BaseURL }}{{ .Site.Params.avatar }}" alt="Portrait {{ .Site.Title }}">
       <span class="title"><strong>{{ .Site.Params.name }}</strong></span>
-      <span class="tagline">{{ .Site.Params.description }}<br>
+      <span class="tagline">
+        {{ .Site.Params.description }}<br>
         <a href="mailto:{{ .Site.Params.email }}">{{ .Site.Params.email }}</a>
       </span>
-   </h1>
-</div>
+    </h1>
+  </div>
 
-{{ partial "head/menu.html" . }}
+  {{ partial "head/menu.html" . }}
 </header>

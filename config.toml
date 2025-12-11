@@ -4,8 +4,6 @@ title = "Christina Freyer"
 theme = "initio"
 relativeURLs = true
 
-
-
 [params]
   banner = "img/header.jpg"
   author = "Christina Freyer"
@@ -28,65 +26,75 @@ relativeURLs = true
   logo = "img/logo.svg"
   background = ""
 
-
-
 [[menu.main]]
     name = "Profil"
     url = "/profil"
     weight = 1
+
 [[menu.main]]
     name = "Leistungen"
     identifier = "leistungen"
     weight = 5
+
 [[menu.main]]
     name = "Angebot"
     parent = "leistungen"
     url = "/angebot"
     weight = 6
+
 [[menu.main]]
     name = "Sprachen"
     parent = "leistungen"
     url = "/sprachen"
     weight = 7
+
 [[menu.main]]
     name = "Fachgebiete"
     parent = "leistungen"
     url = "/fachgebiete"
     weight = 8
+
 [[menu.main]]
     name = "UX-Research"
     parent = "leistungen"
     url = "/ux-research"
     weight = 9
+
 [[menu.main]]
     name = "Service-Infos"
     identifier = "service-infos"
     weight = 10
+
 [[menu.main]]
     name = "Qualität"
     parent = "service-infos"
     url = "/qualitaet"
     weight = 11
+
 [[menu.main]]
     name = "Rechtliches"
     parent = "service-infos"
     url = "/rechtliches"
     weight = 12
+
 [[menu.main]]
     name = "Referenzen"
     parent = "service-infos"
     url = "/referenzen"
     weight = 13
+
 [[menu.main]]
     name = "Preise"
     parent = "service-infos"
     url = "/preise"
     weight = 14
+
 [[menu.main]]
     name = "Professionalisierung"
     parent = "service-infos"
     url = "/professionalisierung"
     weight = 15
+
 [params.disqus]
     site = "hugo-initio-site.disqus.com"
 
@@ -98,10 +106,9 @@ relativeURLs = true
     trackerID = "GA-000000000-0"
 
 [[params.social]]
-        title = "linkedin"
-        url = "https://www.linkedin.com/in/christina-freyer"
+    title = "linkedin"
+    url = "https://www.linkedin.com/in/christina-freyer"
     icon = "fab fa-linkedin"
     footer = true
     sharethis = true
     network = "linkedin"
-
