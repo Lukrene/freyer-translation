@@ -10,20 +10,22 @@ relativeURLs = true
   banner = "img/header.jpg"
   author = "Christina Freyer"
   name = "Christina Freyer"
-  description = "Ihre Partnerin für Sprachmittlung und interkulturelle Kommunikation"
+  description = "Konferenzdolmetschen, Übersetzen & Usability-Research aus einer Hand"
   showSubheader = true
   showServices = true
   showContact = true
   showAbout = true
-showfuerAuftraggeber = true
-showRecentWorks = false
+  showfuerAuftraggeber = true
+  showRecentWorks = false
   DateForm = "January 2, 2006"
   about = "Konferenzdolmetschen"
   phone = "+49 151 75 00 6865"
   address = "Saportastraße 2, 80637 München"
+  email = "info@freyer-translation.de"
   year = 2025
-  avatar = "img/avatar.jpg"
+  avatar = "img/avatar.svg"
   avatarclass = "circle"
+  logo = "img/logo.svg"
   background = ""
 
 
@@ -37,6 +39,10 @@ showRecentWorks = false
     url = "/profil"
     weight = 5
 [[menu.main]]
+    name = "Angebot"
+    url = "/angebot"
+    weight = 6
+[[menu.main]]
     name = "Sprachen"
     url = "/Sprachen"
     weight = 10
@@ -44,6 +50,30 @@ showRecentWorks = false
     name = "Fachgebiete"
     url = "/Fachgebiete"
     weight = 11
+[[menu.main]]
+    name = "Qualität"
+    url = "/qualitaet"
+    weight = 12
+[[menu.main]]
+    name = "Rechtliches"
+    url = "/rechtliches"
+    weight = 13
+[[menu.main]]
+    name = "Referenzen"
+    url = "/referenzen"
+    weight = 14
+[[menu.main]]
+    name = "Preise"
+    url = "/preise"
+    weight = 15
+[[menu.main]]
+    name = "Professionalisierung"
+    url = "/professionalisierung"
+    weight = 16
+[[menu.main]]
+    name = "UX-Research"
+    url = "/ux-research"
+    weight = 20
 
 [params.disqus]
     site = "hugo-initio-site.disqus.com"
