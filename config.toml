@@ -1,7 +1,9 @@
-baseURL = "http://localhost/"
+baseURL = "https://lukrene.github.io/freyer-translation/"
 languageCode = "de-de"
 title = "Christina Freyer"
 theme = "initio"
+relativeURLs = true
+
 
 
 [params]

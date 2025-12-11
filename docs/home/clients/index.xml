@@ -2,10 +2,10 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Clients on Christina Freyer</title>
-    <link>http://localhost/home/clients/</link>
+    <link>https://lukrene.github.io/freyer-translation/home/clients/</link>
     <description>Recent content in Clients on Christina Freyer</description>
     <generator>Hugo</generator>
     <language>de-de</language>
-    <atom:link href="http://localhost/home/clients/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://lukrene.github.io/freyer-translation/home/clients/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>

@@ -2,79 +2,79 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Christina Freyer</title>
-    <link>http://localhost/</link>
+    <link>https://lukrene.github.io/freyer-translation/</link>
     <description>Recent content on Christina Freyer</description>
     <generator>Hugo</generator>
     <language>de-de</language>
-    <atom:link href="http://localhost/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://lukrene.github.io/freyer-translation/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Download original template</title>
-      <link>http://localhost/home/downloads/download1/</link>
+      <link>https://lukrene.github.io/freyer-translation/home/downloads/download1/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost/home/downloads/download1/</guid>
+      <guid>https://lukrene.github.io/freyer-translation/home/downloads/download1/</guid>
       <description>A simple, nice-looking call to action box. Boxing is about respect. getting it for yourself, and taking it away from the other guy. no, this is mount everest.</description>
     </item>
     <item>
       <title>Konferenzdolmetschen &amp; Übersetzen</title>
-      <link>http://localhost/konferenzdolmetschen/</link>
+      <link>https://lukrene.github.io/freyer-translation/konferenzdolmetschen/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost/konferenzdolmetschen/</guid>
+      <guid>https://lukrene.github.io/freyer-translation/konferenzdolmetschen/</guid>
       <description>Da sich in der internationalen Fach- und Geschäftskommunikation noch keine einheitliche lingua franca endgültig durchgesetzt hat, die alle Akteure auf dem entsprechenden Niveau beherrschen, sind Fachübersetzer und -dolmetscher unentbehrlich. Diskret, flexibel und kompetent vermittle ich Ihre Botschaft an Ihren Gesprächspartner in seiner (Fach-)Sprache.&#xA;Bei den Verhandlungen verleihe ich Ihren Argumenten nicht nur eine Stimme, sondern bestärke Sie durch mein selbstbewusstes Auftreten und meine ruhige Art, auch wenn sich eine hitzige Diskussion entfaltet.</description>
     </item>
     <item>
       <title>Profil</title>
-      <link>http://localhost/profil/</link>
+      <link>https://lukrene.github.io/freyer-translation/profil/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost/profil/</guid>
+      <guid>https://lukrene.github.io/freyer-translation/profil/</guid>
       <description>Sprache und Mehrsprachigkeit begleiten mich seit meiner frühesten Kindheit. Aufgewachsen in einer bilingualen Familie in Kiew spreche ich Russisch und Ukrainisch von klein auf. Dort habe ich das Gymnasium Nr. 191 mit Schwerpunkt Fremdsprachen (Englisch und Deutsch) abgeschlossen.&#xA;Seit 2008 lebe ich in München, wo ich zunächst eine Ausbildung zur staatlich geprüften Fremdsprachenkorrespondentin (Französisch, Englisch) absolvierte und im Anschluss an der Fachakademie für Fremdsprachenberufe des SDI München den Abschluss als staatlich geprüfte Übersetzerin für Französisch mit Englisch und Russisch als „zweite Sprachen“ erwarb.</description>
     </item>
     <item>
       <title>Sprachen</title>
-      <link>http://localhost/sprachen/</link>
+      <link>https://lukrene.github.io/freyer-translation/sprachen/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost/sprachen/</guid>
+      <guid>https://lukrene.github.io/freyer-translation/sprachen/</guid>
       <description>Ich arbeite mit folgenden Sprachkombinationen:&#xA;Deutsch ↔ Russisch Deutsch ↔ Ukrainisch Englisch, Französisch → Deutsch, Russisch, Ukrainisch Meine Muttersprachen sind Russisch und Ukrainisch.&#xA;Mit Deutsch und Englisch arbeite ich seit über zwei Jahrzehnten, Französisch habe ich 2009 als weitere Fremdsprache in mein Portfolio aufgenommen.&#xA;Für alle genannten Sprachen kann ich auf Wunsch anerkannte Qualifikationsnachweise (Studienabschlüsse, Prüfungszertifikate, Vereidigungen) vorlegen.</description>
     </item>
     <item>
       <title>Fachgebiete</title>
-      <link>http://localhost/fachgebiete/</link>
+      <link>https://lukrene.github.io/freyer-translation/fachgebiete/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost/fachgebiete/</guid>
+      <guid>https://lukrene.github.io/freyer-translation/fachgebiete/</guid>
       <description>Ich arbeite regelmäßig in diesen Bereichen:&#xA;Energie &amp;amp; Umwelt: erneuerbare Energien, Elektromobilität, Klimapolitik Technik: Automobilität, Infrastruktur Gesellschaft &amp;amp; Politik: NGOs, Menschenrechte, Bildung Wirtschaft &amp;amp; Marketing: Produktpräsentationen, Kundenevents, Unternehmenskommunikation Medizin: insbesondere Gesundheitskommunikation &amp;amp; Konferenzen im Bereich Public Health Justiz &amp;amp; Verwaltung: Dolmetscheinsätze bei Gerichten und Behörden Als Konferenzdolmetscherin bin ich es gewohnt, mich auch kurzfristig und gründlich in neue Themen einzuarbeiten – stets mit dem Anspruch, inhaltlich präzise und terminologisch sicher zu arbeiten.</description>
     </item>
     <item>
       <title></title>
-      <link>http://localhost/home/fuerauftraggeber/header/</link>
+      <link>https://lukrene.github.io/freyer-translation/home/fuerauftraggeber/header/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost/home/fuerauftraggeber/header/</guid>
+      <guid>https://lukrene.github.io/freyer-translation/home/fuerauftraggeber/header/</guid>
       <description>{{ .Site.Title }}&#xD;{{ .Site.Params.description }}</description>
     </item>
     <item>
       <title></title>
-      <link>http://localhost/home/subheader/</link>
+      <link>https://lukrene.github.io/freyer-translation/home/subheader/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost/home/subheader/</guid>
+      <guid>https://lukrene.github.io/freyer-translation/home/subheader/</guid>
       <description>Konferenzdolmetscherin (MA) für Russisch, Deutsch, Englisch&#xA;Öffentlich bestellte und beeidigte Dolmetscherin für die russische Sprache&#xA;Öffentlich bestellte und beeidigte Übersetzerin für die französische Sprache</description>
     </item>
     <item>
       <title>Dolmetschen</title>
-      <link>http://localhost/home/services/dolmetschen/</link>
+      <link>https://lukrene.github.io/freyer-translation/home/services/dolmetschen/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost/home/services/dolmetschen/</guid>
+      <guid>https://lukrene.github.io/freyer-translation/home/services/dolmetschen/</guid>
       <description>&lt;p&gt;Als professionelle Dolmetscherin biete ich verschiedene &lt;strong&gt;Dolmetschmodi&lt;/strong&gt; an – je nach Setting und Kommunikationsform&lt;/p&gt;</description>
     </item>
     <item>
       <title>Download HUGO template</title>
-      <link>http://localhost/home/downloads/download2/</link>
+      <link>https://lukrene.github.io/freyer-translation/home/downloads/download2/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost/home/downloads/download2/</guid>
+      <guid>https://lukrene.github.io/freyer-translation/home/downloads/download2/</guid>
       <description>Another simple, nice-looking call to action box. Boxing is about respect. getting it for yourself, and taking it away from the other guy. no, this is mount everest.</description>
     </item>
     <item>
       <title>Übersetzungen</title>
-      <link>http://localhost/home/services/%C3%BCbersetzungen/</link>
+      <link>https://lukrene.github.io/freyer-translation/home/services/%C3%BCbersetzungen/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost/home/services/%C3%BCbersetzungen/</guid>
+      <guid>https://lukrene.github.io/freyer-translation/home/services/%C3%BCbersetzungen/</guid>
       <description>&lt;p&gt;Fachübersetzungen und Urkundenübersetzungen&lt;/p&gt;</description>
     </item>
   </channel>
