@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Leistungen on Christina Freyer</title>
+    <link>http://localhost/home/services/</link>
+    <description>Recent content in Leistungen on Christina Freyer</description>
+    <generator>Hugo</generator>
+    <language>de-de</language>
+    <atom:link href="http://localhost/home/services/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Dolmetschen</title>
+      <link>http://localhost/home/services/dolmetschen/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost/home/services/dolmetschen/</guid>
+      <description>&lt;p&gt;Als professionelle Dolmetscherin biete ich verschiedene &lt;strong&gt;Dolmetschmodi&lt;/strong&gt; an – je nach Setting und Kommunikationsform&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Übersetzungen</title>
+      <link>http://localhost/home/services/%C3%BCbersetzungen/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost/home/services/%C3%BCbersetzungen/</guid>
+      <description>&lt;p&gt;Fachübersetzungen und Urkundenübersetzungen&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
