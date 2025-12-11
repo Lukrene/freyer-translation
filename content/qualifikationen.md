@@ -1,7 +1,6 @@
 +++
 title = "Qualifikationsnachweise"
 type = "about"
-menu = "main"
 weight = 9
 +++
 

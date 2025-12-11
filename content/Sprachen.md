@@ -1,8 +1,8 @@
 +++
-menu = "main"
 title = "Sprachen"
 type = "about"
 weight = 10
+url = "/sprachen/"
 +++
 
 Ich arbeite mit folgenden Sprachkombinationen:

@@ -1,7 +1,6 @@
 +++
 title = "Rechtliches"
 type = "about"
-menu = "main"
 weight = 13
 +++
 

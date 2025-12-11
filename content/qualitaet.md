@@ -1,7 +1,6 @@
 +++
 title = "Qualität"
 type = "about"
-menu = "main"
 weight = 12
 +++
 

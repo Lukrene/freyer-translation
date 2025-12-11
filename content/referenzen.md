@@ -1,8 +1,8 @@
 +++
 title = "Referenzen"
 type = "about"
-menu = "main"
 weight = 14
+url = "/referenzen/"
 +++
 
 ## Auswahl an Projekten

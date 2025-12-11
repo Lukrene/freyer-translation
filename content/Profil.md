@@ -2,6 +2,7 @@
 type = "about"
 weight = 10
 title = "Profil"
+url = "/profil/"
 +++
 
 Sprache und Mehrsprachigkeit begleiten mich seit meiner frühesten Kindheit. Aufgewachsen in einer bilingualen Familie in Kiew spreche ich Russisch und Ukrainisch von klein auf. Dort habe ich das Gymnasium Nr. 191 mit Schwerpunkt Fremdsprachen (Englisch und Deutsch) abgeschlossen.

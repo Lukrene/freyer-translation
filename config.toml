@@ -32,49 +32,45 @@ relativeURLs = true
 
 
 [[menu.main]]
-    name = "home"
+    name = "Home"
     url = "/"
     weight = 1
 [[menu.main]]
-    name = "profil"
-    url = "/profil"
+    name = "Profil"
+    url = "/profil/"
     weight = 5
 [[menu.main]]
-    name = "Angebot"
-    url = "/angebot"
-    weight = 6
-[[menu.main]]
     name = "Sprachen"
-    url = "/Sprachen"
+    url = "/sprachen/"
     weight = 10
 [[menu.main]]
     name = "Fachgebiete"
-    url = "/Fachgebiete"
+    url = "/fachgebiete/"
     weight = 11
 [[menu.main]]
-    name = "Qualität"
-    url = "/qualitaet"
+    name = "Qualität & Professionalität"
+    url = "/qualitaet-professionalitaet/"
     weight = 12
 [[menu.main]]
-    name = "Rechtliches"
-    url = "/rechtliches"
-    weight = 13
-[[menu.main]]
-    name = "Referenzen"
-    url = "/referenzen"
+    name = "Preise & Preisbildung"
+    url = "/preise-preisbildung/"
     weight = 14
 [[menu.main]]
-    name = "Preise"
-    url = "/preise"
-    weight = 15
-[[menu.main]]
-    name = "Professionalisierung"
-    url = "/professionalisierung"
+    name = "Referenzen"
+    url = "/referenzen/"
     weight = 16
 [[menu.main]]
     name = "UX-Research"
-    url = "/ux-research"
+    url = "/ux-research/"
     weight = 20
+[[menu.main]]
+    name = "Impressum"
+    url = "/impressum/"
+    weight = 30
+[[menu.main]]
+    name = "AGB"
+    url = "/agb/"
+    weight = 32
 
 [params.disqus]
     site = "hugo-initio-site.disqus.com"

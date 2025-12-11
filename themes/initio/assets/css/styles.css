@@ -258,6 +258,16 @@ a:hover {
   margin: 0 auto;
 }
 
+#head img.brandmark {
+  width: auto;
+  max-width: 320px;
+  height: auto;
+  border: none;
+  margin: 0 auto 18px;
+  padding: 0;
+  box-shadow: none;
+}
+
 #head img.img-circle {
   border-radius: 50%
 }
