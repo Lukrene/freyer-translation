@@ -824,6 +824,15 @@ footer.entry-meta .meta-in {
   color: #ccc;
   margin: 0 0 20px;
 }
+.footer-legal li {
+  margin-bottom: 6px;
+}
+.footer-legal a {
+  color: #ccc;
+}
+.footer-legal a:hover {
+  color: #fff;
+}
 #underfooter {
   background: #191919;
   padding: 15px 0;

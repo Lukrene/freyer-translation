@@ -24,9 +24,9 @@ relativeURLs = true
   address = "Saportastraße 2, 80637 München"
   email = "info@freyer-translation.de"
   year = 2025
-  avatar = "img/avatar.svg"
-  avatarclass = "circle"
-  logo = "img/logo.svg"
+  avatar = "img/logo.svg"
+  avatarclass = "square"
+  logo = ""
   background = ""
 
 
@@ -35,6 +35,10 @@ relativeURLs = true
     name = "Home"
     url = "/"
     weight = 1
+[[menu.main]]
+    name = "Konferenzdolmetschen & Übersetzen"
+    url = "/konferenzdolmetschen/"
+    weight = 4
 [[menu.main]]
     name = "Profil"
     url = "/profil/"
@@ -71,6 +75,16 @@ relativeURLs = true
     name = "AGB"
     url = "/agb/"
     weight = 32
+
+[[menu.footer]]
+    name = "Impressum"
+    url = "/impressum/"
+    weight = 1
+
+[[menu.footer]]
+    name = "AGB"
+    url = "/agb/"
+    weight = 2
 
 [params.disqus]
     site = "hugo-initio-site.disqus.com"

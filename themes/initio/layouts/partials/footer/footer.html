@@ -1,18 +1,31 @@
 <footer id="footer">
 	<div class="container">
 		<div class="row">
-			{{ if .Site.Params.showFooterContact }}
-			<div class="col-md-3 widget">
-				<h3 class="widget-title">{{ i18n "footer_contact_title" }}</h3>
-				<div class="widget-body">
-					<p>{{ if .Site.Params.phone }}{{ .Site.Params.phone }}<br>{{ end }}
-					{{ if .Site.Params.email }}<a href="mailto:{{ .Site.Params.email }}">{{ .Site.Params.email }}</a><br>{{ end }}
-					<br>
-					{{ if .Site.Params.address }}{{ .Site.Params.address }}{{ end }}
-					</p>
-				</div>
-			</div>
-			{{ end }}
+                        {{ if .Site.Params.showFooterContact }}
+                        <div class="col-md-3 widget">
+                                <h3 class="widget-title">{{ i18n "footer_contact_title" }}</h3>
+                                <div class="widget-body">
+                                        <p>{{ if .Site.Params.phone }}{{ .Site.Params.phone }}<br>{{ end }}
+                                        {{ if .Site.Params.email }}<a href="mailto:{{ .Site.Params.email }}">{{ .Site.Params.email }}</a><br>{{ end }}
+                                        <br>
+                                        {{ if .Site.Params.address }}{{ .Site.Params.address }}{{ end }}
+                                        </p>
+                                </div>
+                        </div>
+                        {{ end }}
+
+                        {{ with .Site.Menus.footer }}
+                        <div class="col-md-3 widget">
+                                <h3 class="widget-title">Rechtliches</h3>
+                                <div class="widget-body">
+                                        <ul class="list-unstyled footer-legal">
+                                        {{ range . }}
+                                                <li><a href="{{ .URL | relLangURL }}">{{ .Name }}</a></li>
+                                        {{ end }}
+                                        </ul>
+                                </div>
+                        </div>
+                        {{ end }}
 
 			{{ if .Site.Params.showFooterFollowMe }}
 			<div class="col-md-3 widget">
