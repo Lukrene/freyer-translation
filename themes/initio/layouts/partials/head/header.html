@@ -2,7 +2,7 @@
   <div id="head" class="parallax" data-parallax-speed="0,5" style="background-image:url('{{ .Site.BaseURL }}{{ .Site.Params.banner }}');">
     <h1 id="logo" class="text-center">
       {{ with .Site.Params.logo }}
-        <img class="brandmark" src="{{ $.Site.BaseURL }}{{ . }}" alt="Logo {{ $.Site.Title }}" style="max-width: 120px; max-height: 96px; width: auto; height: auto; object-fit: contain; padding: 6px; margin-bottom: 12px;">
+        <img class="brandmark" src="{{ $.Site.BaseURL }}{{ . }}" alt="Logo {{ $.Site.Title }}" style="display: block; max-width: 200px; height: auto; object-fit: contain; padding: 0; margin: 0 auto 16px;">
       {{ end }}
       <img class='img-{{ .Site.Params.avatarclass | default "circle"}}' src="{{ .Site.BaseURL }}{{ .Site.Params.avatar }}" alt="Portrait {{ .Site.Title }}">
       <span class="title"><strong>{{ .Site.Params.name }}</strong></span>

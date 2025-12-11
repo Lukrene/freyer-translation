@@ -31,31 +31,32 @@ relativeURLs = true
 
 
 [[menu.main]]
-    name = "Home"
-    url = "/"
-    weight = 1
-[[menu.main]]
     name = "Profil"
     url = "/profil"
-    weight = 5
+    weight = 1
 [[menu.main]]
     name = "Leistungen"
     identifier = "leistungen"
-    weight = 6
+    weight = 5
 [[menu.main]]
     name = "Angebot"
     parent = "leistungen"
     url = "/angebot"
-    weight = 7
+    weight = 6
 [[menu.main]]
     name = "Sprachen"
     parent = "leistungen"
     url = "/sprachen"
-    weight = 8
+    weight = 7
 [[menu.main]]
     name = "Fachgebiete"
     parent = "leistungen"
     url = "/fachgebiete"
+    weight = 8
+[[menu.main]]
+    name = "UX-Research"
+    parent = "leistungen"
+    url = "/ux-research"
     weight = 9
 [[menu.main]]
     name = "Service-Infos"
@@ -86,11 +87,6 @@ relativeURLs = true
     parent = "service-infos"
     url = "/professionalisierung"
     weight = 15
-[[menu.main]]
-    name = "UX-Research"
-    url = "/ux-research"
-    weight = 20
-
 [params.disqus]
     site = "hugo-initio-site.disqus.com"
 
@@ -103,8 +99,8 @@ relativeURLs = true
 
 [[params.social]]
         title = "linkedin"
-        url = "https://www.linkedin.com/in/nickname"
-    icon = "fab fa-linkedin-in"
+        url = "https://www.linkedin.com/in/christina-freyer"
+    icon = "fab fa-linkedin"
     footer = true
     sharethis = true
     network = "linkedin"
