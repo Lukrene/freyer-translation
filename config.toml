@@ -25,7 +25,7 @@ relativeURLs = true
   email = "info@freyer-translation.de"
   year = 2025
   avatar = "img/logo.svg"
-  avatarclass = "square"
+  avatarclass = "circle"
   logo = ""
   background = ""
 
