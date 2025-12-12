@@ -1,0 +1,26 @@
+<section class="home-section">
+  <div class="container">
+    <div class="row topspace">
+      <div class="col-md-10 col-md-offset-1">
+        <h2 class="section-title text-center">
+          <span>{{ .Title }}</span>
+        </h2>
+        <div class="lead text-left">
+          {{ .Content }}
+        </div>
+        {{ with .Params.buttons }}
+        <div class="text-center section-buttons">
+          {{ range . }}
+          {{ $isDisabled := .disabled | default false }}
+          {{ if $isDisabled }}
+            <button class="btn btn-action btn-lg" type="button" disabled aria-disabled="true">{{ .label }}</button>
+          {{ else }}
+            <a class="btn btn-action btn-lg" href="{{ .url }}">{{ .label }}</a>
+          {{ end }}
+          {{ end }}
+        </div>
+        {{ end }}
+      </div>
+    </div>
+  </div>
+</section>

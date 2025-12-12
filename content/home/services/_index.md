@@ -1,6 +1,6 @@
 +++
 title = "Leistungen"
 type = "service"
-weight = 1
+weight = 2
 +++
 

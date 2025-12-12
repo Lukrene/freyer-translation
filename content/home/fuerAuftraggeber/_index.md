@@ -1,7 +1,7 @@
 +++
 type = "fuerauftraggeber"
 
-weight = 10
+weight = 5
 +++
 
 
