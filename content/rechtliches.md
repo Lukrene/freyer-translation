@@ -18,4 +18,4 @@ weight = 13
 ## Dokumente
 
 * **Öffentliche Bestellung & Beeidigung** (LG München II) für Russisch
-* **AGB** und **Datenschutzhinweise** stelle ich auf Anfrage zur Verfügung.
+* **[AGB](/agb/)** und **Datenschutzhinweise** stelle ich auf Anfrage zur Verfügung.

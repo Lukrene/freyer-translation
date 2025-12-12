@@ -251,21 +251,16 @@ a:hover {
 
 #head img {
   display: block;
-  width: 140px;
-  height: 140px;
+  width: 180px;
+  height: 180px;
   overflow: hidden;
   border: 9px solid rgba(0, 0, 0, 0.05);
   margin: 0 auto;
+  object-fit: cover;
 }
 
 #head img.brandmark {
-  width: auto;
-  max-width: 320px;
-  height: auto;
-  border: none;
-  margin: 0 auto 18px;
-  padding: 0;
-  box-shadow: none;
+  display: none;
 }
 
 #head img.img-circle {
@@ -402,6 +397,14 @@ img {
 }
 .panel-cta .panel-body {
   padding: 35px;
+}
+
+.section-buttons {
+  margin-top: 20px;
+}
+
+.section-buttons .btn {
+  margin: 6px;
 }
 /* Section - Featured */
 .featured {

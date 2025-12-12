@@ -16,7 +16,8 @@ canonifyURLs = true
   showServices = true
   showContact = true
   showAbout = true
-  showfuerAuftraggeber = true
+  showfuerauftraggeber = true
+  showLanguages = true
   showDownloads = false
   showRecentWorks = false
   DateForm = "January 2, 2006"
@@ -30,6 +31,7 @@ canonifyURLs = true
   logo = ""
   headerImage = "img/header.jpg"
   background = ""
+  languages = "Deutsch ↔ Russisch ↔ Ukrainisch sowie Übersetzungen aus dem Englischen und Französischen"
 
 
 
