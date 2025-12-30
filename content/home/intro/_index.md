@@ -1,6 +1,6 @@
 +++
 title = "Auf einen Blick"
-type = "single"
+type = "hidden"
 weight = 1
 +++
 

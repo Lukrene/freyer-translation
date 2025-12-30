@@ -14,15 +14,18 @@
 
             <ul class="nav navbar-nav">
             {{ range .Site.Menus.main }}
+                {{ $currentURL := $.Permalink }}
+                {{ $menuURL := .URL | absLangURL }}
+                {{ $isActive := or (eq $currentURL $menuURL) ($.IsMenuCurrent "main" .) ($.HasMenuCurrent "main" .) }}
                 {{ if .HasChildren }}
-                <li class="dropdown">
+                <li class="dropdown {{ if $isActive }}active{{ end }}">
                     <a href="#" class="dropdown-toggle" data-toggle="dropdown">
                         {{ .Name }}<b class="caret"></b>
                     </a>
                     <ul class="dropdown-menu">
                         {{ range .Children }}
                         <li>
-                            <a href="{{ .URL | absLangURL }}" {{ if $.IsHome }} data-target="{{ .URL }}" {{ end }}>
+                            <a class="{{ if or ($.IsMenuCurrent "main" .) ($.HasMenuCurrent "main" .) }}active{{ end }}" href="{{ .URL | absLangURL }}" {{ if $.IsHome }} data-target="{{ .URL }}" {{ end }}>
                                 {{ .Name }}
                             </a>
                         </li>
@@ -30,7 +33,7 @@
                     </ul>
                 </li>
                 {{ else }}
-                <li>
+                <li class="{{ if $isActive }}active{{ end }}">
                     <a href="{{ .URL | absLangURL }}">{{ .Name }}</a>
                 </li>
                 {{ end }}

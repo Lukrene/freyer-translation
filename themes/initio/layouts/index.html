@@ -8,6 +8,9 @@
       {{ end }}
 
 {{ if .Site.Params.showLanguages }}
+  {{ $languagesPage := site.GetPage "page" "sprachen" }}
+  {{ $voicesPage := site.GetPage "section" "home/sprachen" }}
+  {{ with $languagesPage }}
 <section id="languages" class="home-section bg-gray">
   <div class="container">
     <div class="row">
@@ -15,21 +18,38 @@
         <h2 class="section-title">
           <span>Sprachen</span>
         </h2>
-        <p class="maincontent">{{ .Site.Params.languages | markdownify }}</p>
+        <div class="maincontent">{{ .Content }}</div>
+        {{ with $voicesPage }}
+          <div class="maincontent">{{ .Content }}</div>
+          {{ with .Params.buttons }}
+          <div class="text-center section-buttons">
+            {{ range . }}
+              {{ $isDisabled := .disabled | default false }}
+              {{ if $isDisabled }}
+                <button class="btn btn-action btn-lg" type="button" disabled aria-disabled="true">{{ .label }}</button>
+              {{ else }}
+                <a class="btn btn-action btn-lg" href="{{ .url }}">{{ .label }}</a>
+              {{ end }}
+            {{ end }}
+          </div>
+          {{ end }}
+        {{ end }}
       </div>
     </div>
   </div>
 </section>
+  {{ end }}
 {{ end }}
       
         {{ range .Site.Sections }}
             {{ range .Sections.ByWeight }}
                 {{ $stype := .Type}}
-                {{ if (or (and (eq $stype "service") (.Site.Params.showServices))
-                          (and (eq $stype "fuerauftraggeber") (.Site.Params.showfuerauftraggeber))
-                          (and (eq $stype "download") (.Site.Params.showDownloads))
-                          (and (eq $stype "client") (.Site.Params.showClients))
-                          (eq $stype "single")) }}
+                {{ if and (ne .File.Dir "home/sprachen/") (ne .File.Dir "home/intro/") }}
+                  {{ if (or (and (eq $stype "service") (.Site.Params.showServices))
+                            (and (eq $stype "fuerauftraggeber") (.Site.Params.showfuerauftraggeber))
+                            (and (eq $stype "download") (.Site.Params.showDownloads))
+                            (and (eq $stype "client") (.Site.Params.showClients))
+                            (eq $stype "single")) }}
 
                      <div class="row section featured topspace">
                        <h2 class="section-title">
@@ -51,7 +71,8 @@
 
                      {{ end }}
                 </div>	<!-- /section -->
-              {{ end }}
+                  {{ end }}
+                {{ end }}
             {{ end }}
         {{ end }}
     </div>	<!-- /container -->

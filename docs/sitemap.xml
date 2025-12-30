@@ -2,21 +2,23 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://lukrene.github.io/freyer-translation/home/downloads/download1/</loc>
+    <loc>https://lukrene.github.io/freyer-translation/home/intro/</loc>
   </url><url>
     <loc>https://lukrene.github.io/freyer-translation/home/services/</loc>
   </url><url>
     <loc>https://lukrene.github.io/freyer-translation/home/recentworks/</loc>
   </url><url>
-    <loc>https://lukrene.github.io/freyer-translation/home/downloads/</loc>
+    <loc>https://lukrene.github.io/freyer-translation/home/sprachen/</loc>
   </url><url>
     <loc>https://lukrene.github.io/freyer-translation/home/clients/</loc>
+  </url><url>
+    <loc>https://lukrene.github.io/freyer-translation/home/highlights/</loc>
+  </url><url>
+    <loc>https://lukrene.github.io/freyer-translation/home/fuerauftraggeber/</loc>
   </url><url>
     <loc>https://lukrene.github.io/freyer-translation/angebot/</loc>
   </url><url>
     <loc>https://lukrene.github.io/freyer-translation/qualifikationen/</loc>
-  </url><url>
-    <loc>https://lukrene.github.io/freyer-translation/home/fuerauftraggeber/</loc>
   </url><url>
     <loc>https://lukrene.github.io/freyer-translation/konferenzdolmetschen/</loc>
   </url><url>
@@ -28,7 +30,11 @@
   </url><url>
     <loc>https://lukrene.github.io/freyer-translation/qualitaet/</loc>
   </url><url>
+    <loc>https://lukrene.github.io/freyer-translation/qualitaet-professionalitaet/</loc>
+  </url><url>
     <loc>https://lukrene.github.io/freyer-translation/rechtliches/</loc>
+  </url><url>
+    <loc>https://lukrene.github.io/freyer-translation/preise-preisbildung/</loc>
   </url><url>
     <loc>https://lukrene.github.io/freyer-translation/referenzen/</loc>
   </url><url>
@@ -37,6 +43,10 @@
     <loc>https://lukrene.github.io/freyer-translation/professionalisierung/</loc>
   </url><url>
     <loc>https://lukrene.github.io/freyer-translation/ux-research/</loc>
+  </url><url>
+    <loc>https://lukrene.github.io/freyer-translation/impressum/</loc>
+  </url><url>
+    <loc>https://lukrene.github.io/freyer-translation/agb/</loc>
   </url><url>
     <loc>https://lukrene.github.io/freyer-translation/home/fuerauftraggeber/header/</loc>
   </url><url>
@@ -47,8 +57,6 @@
     <loc>https://lukrene.github.io/freyer-translation/</loc>
   </url><url>
     <loc>https://lukrene.github.io/freyer-translation/home/services/dolmetschen/</loc>
-  </url><url>
-    <loc>https://lukrene.github.io/freyer-translation/home/downloads/download2/</loc>
   </url><url>
     <loc>https://lukrene.github.io/freyer-translation/home/</loc>
   </url><url>

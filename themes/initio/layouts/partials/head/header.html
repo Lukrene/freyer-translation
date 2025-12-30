@@ -1,7 +1,10 @@
 <header id="header">
-  <div id="head" class="parallax" data-parallax-speed="0,5" style="background-image:url('{{ .Site.Params.banner | relURL }}');">
+  {{ $banner := or .Site.Params.banner .Site.Params.headerImage }}
+  <div id="head" class="{{ if .IsHome }}parallax{{ end }}" {{ if .IsHome }}data-parallax-speed="0.25"{{ end }} style="background-image:url('{{ $banner | absURL }}');">
     <h1 id="logo" class="text-center">
-      <img class='img-{{ .Site.Params.avatarclass | default "circle"}}' src="{{ .Site.Params.avatar | relURL }}" alt="Portrait {{ .Site.Title }}">
+      {{ with .Site.Params.avatar }}
+      <img class='img-{{ $.Site.Params.avatarclass | default "circle"}}' src="{{ . | absURL }}" alt="Portrait {{ $.Site.Title }}">
+      {{ end }}
       <span class="title"><strong>{{ .Site.Params.name }}</strong></span>
       <span class="tagline">{{ .Site.Params.description }}<br>
         <a href="mailto:{{ .Site.Params.email }}">{{ .Site.Params.email }}</a>
