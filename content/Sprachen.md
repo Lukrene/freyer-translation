@@ -7,22 +7,12 @@ url = "/sprachen/"
 
 Ich arbeite mit folgenden Sprachkombinationen:
 
+* **Deutsch** <i class="fa fa-long-arrow-right" aria-hidden="true"></i> **Russisch**
+* **Deutsch** <i class="fa fa-long-arrow-right" aria-hidden="true"></i> **Ukrainisch**
+* **Englisch, Französisch** <i class="fa fa-long-arrow-right" aria-hidden="true"></i> **Deutsch, Russisch, Ukrainisch**
 
-
-* **Deutsch ↔ Russisch**
-* **Deutsch ↔ Ukrainisch**
-* **Englisch, Französisch → Deutsch, Russisch, Ukrainisch**
-
-
+![Sprachrichtungen Schema](/img/sprachrichtungen.svg)
 
 Meine **Muttersprachen** sind **Russisch** und **Ukrainisch**.
 
-Mit **Deutsch** und **Englisch** arbeite ich seit über zwei Jahrzehnten, **Französisch** habe ich 2009 als weitere Fremdsprache in mein Portfolio aufgenommen.
-
-
-
-Für alle genannten Sprachen kann ich auf Wunsch **anerkannte Qualifikationsnachweise** (Studienabschlüsse, Prüfungszertifikate, Vereidigungen) vorlegen.
-
-**Dolmetschrichtungen**: Aktiv DE/RU/UA, passiv EN/FR; Remote, hybrid und Präsenz.
-**Textleistungen**: Übersetzungen in meine aktiven Sprachen, Lektorat und Terminologieaufbau.
-
+Mehr Details zu Arbeitssprachen, Qualifikationsnachweisen und Leistungen: [mehr](/sprachen/mehr/).

@@ -1,60 +1,22 @@
 +++
+title = "Für Auftraggeber"
 type = "fuerauftraggeber"
-
 weight = 5
 +++
 
-
-
-Eine qualitativ hochwertige Verdolmetschung entsteht nicht spontan – sie ist das Ergebnis sorgfältiger Vorbereitung, Teamarbeit und guter Rahmenbedingungen.
-
-
+Eine qualitativ hochwertige Verdolmetschung entsteht nicht spontan - sie ist das Ergebnis sorgfältiger Vorbereitung, Teamarbeit und guter Rahmenbedingungen.
 
 Damit ich Sie bestmöglich unterstützen kann, tragen Sie als Auftraggeber maßgeblich zum Gelingen des Dolmetscheinsatzes bei.
 
+<details>
+<summary>Aufgaben im Überblick</summary>
 
+* **Vorbereitungsmaterialien:** Redetexte, Präsentationen, Teilnehmerlisten, Programme, Hintergrunddokumente, Protokolle oder eine kurze Ablaufbeschreibung.
+* **Setting & Technik:** Zeit, Ort, technisches Equipment, Beteiligte und Kommunikationswege (vor Ort, hybrid, online) sowie ein kurzer Technik-Check bei Remote-Formaten.
+* **Arbeitsbedingungen:** Ausreichend lange Pausen, ruhiger Arbeitsplatz, gute Tonqualität und Teamarbeit bei mehreren Sprachen oder längeren Einsätzen.
+* **Planungssicherheit:** Buchungen im Voraus, kurzfristige Änderungen bitte abgestimmt.
+* **Rechtliches & Sicherheit:** Verschwiegenheit, Datenschutz, IT-Sicherheit sowie Foto- und Aufzeichnungsregeln vorab klären.
 
-Zu Ihren Aufgaben gehören unter anderem:
+</details>
 
-
-
-Frühzeitige Bereitstellung von Vorbereitungsmaterialien
-
-Dazu gehören Redetexte, Präsentationen, Teilnehmerlisten, Programme, Hintergrunddokumente, Protokolle oder auch einfach eine kurze Beschreibung des Ablaufs. Je früher mir diese Informationen zur Verfügung stehen, desto besser kann ich mich terminologisch und inhaltlich vorbereiten.
-
-
-
-Klare Informationen zum Setting
-
-Zeit, Ort, technisches Equipment, Beteiligte und Kommunikationswege (vor Ort, hybrid, online). Gerade bei Remote-Einsätzen sind diese Angaben essenziell für die Planung.
-
-Testlauf & Technik
-
-Für Remote-Formate vereinbaren wir einen kurzen Technik-Check (Ton, Kameras, Plattform, Back-up-Link). Bei Präsenz-Events stimmen wir Kabine, PFA oder Saal-Mikrofonierung ab.
-
-
-
-Angemessene Arbeitsbedingungen
-
-Dolmetschen erfordert höchste Konzentration. Dazu zählen ausreichend lange Pausen, ein ruhiger Arbeitsplatz, gute Tonqualität (bei Online-Einsätzen), sowie die Möglichkeit zur Teamarbeit mit Kolleg:innen, wenn mehrere Sprachen oder längere Einsätze geplant sind.
-
-
-
-Planungssicherheit
-
-Je nach Setting wird eine Buchung im Voraus notwendig. Kurzfristige Änderungen sollten abgesprochen werden.
-
-Rechtliches und Sicherheit
-
-Damit alle Beteiligten geschützt sind, bestätigen wir Verschwiegenheit, Daten- und IT-Sicherheit sowie Foto- und Aufzeichnungsregeln vorab schriftlich.
-
-
-
-Transparente Kommunikation
-
-Ich begleite Sie gern bei der Planung und beantworte alle Fragen – Dolmetschen ist Teamarbeit!
-
-
-
-Eine häufige Ursache für Missverständnisse oder negative Erfahrungen liegt darin, dass Auftraggeber nicht wissen, wie zentral diese Punkte für die Qualität der Dolmetschleistung sind. Dabei ist gute Vorbereitung im Interesse aller Beteiligten – nicht zuletzt Ihrer Zuhörer:innen.
-
+Ich begleite Sie gern bei der Planung und beantworte alle Fragen - Dolmetschen ist Teamarbeit. Gute Vorbereitung liegt im Interesse aller Beteiligten und verhindert Missverständnisse.
