@@ -26,9 +26,9 @@ canonifyURLs = true
   address = "Saportastraße 2, 80637 München"
   email = "info@freyer-translation.de"
   year = 2025
-  avatar = "/img/logo.svg"
+  avatar = "img/logo cf.png"
   avatarclass = "circle"
-  logo = ""
+  logo = "img/logo cf.png"
   headerImage = "img/header.jpg"
   background = ""
   languages = "Deutsch ↔ Russisch ↔ Ukrainisch sowie Übersetzungen aus dem Englischen und Französischen"
@@ -37,48 +37,40 @@ canonifyURLs = true
 
 [[menu.main]]
     name = "Home"
-    url = "/"
+    url = "/freyer-translation/"
     weight = 1
 [[menu.main]]
     name = "Konferenzdolmetschen & Übersetzen"
-    url = "/konferenzdolmetschen/"
+    url = "/freyer-translation/konferenzdolmetschen/"
     weight = 4
 [[menu.main]]
     name = "Profil"
-    url = "/profil/"
+    url = "/freyer-translation/profil/"
     weight = 5
 [[menu.main]]
-    name = "Sprachen"
-    url = "/sprachen/"
-    weight = 10
-[[menu.main]]
     name = "Fachgebiete"
-    url = "/fachgebiete/"
+    url = "/freyer-translation/fachgebiete/"
     weight = 11
 [[menu.main]]
-    name = "Qualität & Professionalität"
-    url = "/qualitaet-professionalitaet/"
-    weight = 12
-[[menu.main]]
     name = "Preise & Preisbildung"
-    url = "/preise-preisbildung/"
+    url = "/freyer-translation/preise-preisbildung/"
     weight = 14
 [[menu.main]]
     name = "Referenzen"
-    url = "/referenzen/"
+    url = "/freyer-translation/referenzen/"
     weight = 16
 [[menu.main]]
     name = "UX-Research"
-    url = "/ux-research/"
+    url = "/freyer-translation/ux-research/"
     weight = 20
 [[menu.footer]]
     name = "Impressum"
-    url = "/impressum/"
+    url = "/freyer-translation/impressum/"
     weight = 1
 
 [[menu.footer]]
     name = "AGB"
-    url = "/agb/"
+    url = "/freyer-translation/agb/"
     weight = 2
 
 [params.disqus]
@@ -98,4 +90,3 @@ canonifyURLs = true
     footer = true
     sharethis = true
     network = "linkedin"
-

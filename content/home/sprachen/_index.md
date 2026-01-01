@@ -1,6 +1,6 @@
 +++
 title = "Sprachen & Stimmproben"
-type = "single"
+type = "hidden"
 weight = 3
 [[buttons]]
 label = "Stimmprobe Deutsch"

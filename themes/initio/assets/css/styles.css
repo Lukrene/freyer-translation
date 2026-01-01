@@ -78,6 +78,13 @@ body {
 .navbar-default .navbar-nav > .active > a:focus {
   color: #000000;
 }
+.navbar-default .navbar-nav > li.active > a,
+.navbar-default .navbar-nav > li.active > a:hover,
+.navbar-default .navbar-nav > li.active > a:focus,
+.navbar-default .navbar-nav > li > a.active {
+  color: #bd1550;
+  font-weight: 700;
+}
 .navbar-default .dropdown ul.dropdown-menu > li > a {
   color: #333333;
 }
@@ -192,10 +199,10 @@ h5 {
 }
 .brandmark {
   display: block;
-  max-width: 220px;
+  max-width: 260px;
   width: 100%;
   height: auto;
-  margin: 0 auto 12px;
+  margin: 0 auto 14px;
   object-fit: contain;
 }
 a {
@@ -260,7 +267,11 @@ a:hover {
 }
 
 #head img.brandmark {
-  display: none;
+  display: block;
+  width: 170px;
+  max-width: 70%;
+  height: auto;
+  margin: 0 auto 15px;
 }
 
 #head img.img-circle {
@@ -287,7 +298,7 @@ a:hover {
 #head .tagline {
   display: block;
    line-height: 1.4em;       /* etwas luftiger */
-  color: #333333;
+  color: #ffffff;
   margin: 10px 0 0;         /* optisch zentrierter */
   font-weight: bold;
   font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
@@ -298,7 +309,7 @@ a:hover {
   font-weight: normal;
 }
 #head .tagline a {
-  color: #5E5E5E;
+  color: #ffffff;
 }
 .home #head {
   padding: 90px 0;
