@@ -233,6 +233,13 @@ a:hover {
   text-transform: capitalize;
   margin-top: -0.23em;
 }
+#languages .maincontent {
+  font-size: 21px;
+  font-size: 1.3125rem;
+  font-weight: 300;
+  line-height: 1.6em;
+  text-align: left;
+}
 .size-auto,
 .size-full,
 .size-large,
@@ -324,7 +331,15 @@ a:hover {
   margin: 15px 0 0;
 }
 .page #head {
-  padding: 90px 0;
+  padding: 45px 0;
+}
+.page #head img {
+  width: 120px;
+  height: 120px;
+}
+.page #head img.brandmark {
+  width: 130px;
+  margin: 0 auto 10px;
 }
 .page #head .title {
   font-size: 49px;
