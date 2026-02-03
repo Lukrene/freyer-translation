@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="220" viewBox="0 0 900 220" role="img" aria-label="Sprachrichtungen Schema">
+  <rect width="900" height="220" fill="#f7f7f7"/>
+  <g font-family="Helvetica, Arial, sans-serif" font-size="18" fill="#333">
+    <rect x="40" y="30" width="220" height="50" rx="8" fill="#ffffff" stroke="#cccccc"/>
+    <text x="150" y="62" text-anchor="middle">Deutsch</text>
+
+    <rect x="330" y="30" width="220" height="50" rx="8" fill="#ffffff" stroke="#cccccc"/>
+    <text x="440" y="62" text-anchor="middle">Russisch</text>
+
+    <rect x="620" y="30" width="220" height="50" rx="8" fill="#ffffff" stroke="#cccccc"/>
+    <text x="730" y="62" text-anchor="middle">Ukrainisch</text>
+
+    <line x1="260" y1="55" x2="330" y2="55" stroke="#999999" stroke-width="2"/>
+    <polygon points="330,55 322,50 322,60" fill="#999999"/>
+    <polygon points="260,55 268,50 268,60" fill="#999999"/>
+
+    <line x1="550" y1="55" x2="620" y2="55" stroke="#999999" stroke-width="2"/>
+    <polygon points="620,55 612,50 612,60" fill="#999999"/>
+    <polygon points="550,55 558,50 558,60" fill="#999999"/>
+
+    <rect x="40" y="130" width="260" height="50" rx="8" fill="#ffffff" stroke="#cccccc"/>
+    <text x="170" y="162" text-anchor="middle">Englisch, Franz&#246;sisch</text>
+
+    <rect x="360" y="130" width="500" height="50" rx="8" fill="#ffffff" stroke="#cccccc"/>
+    <text x="610" y="162" text-anchor="middle">Deutsch, Russisch, Ukrainisch</text>
+
+    <line x1="300" y1="155" x2="360" y2="155" stroke="#999999" stroke-width="2"/>
+    <polygon points="360,155 352,150 352,160" fill="#999999"/>
+  </g>
+</svg>

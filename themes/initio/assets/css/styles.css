@@ -233,6 +233,13 @@ a:hover {
   text-transform: capitalize;
   margin-top: -0.23em;
 }
+#languages .maincontent {
+  font-size: 21px;
+  font-size: 1.3125rem;
+  font-weight: 300;
+  line-height: 1.6em;
+  text-align: left;
+}
 .size-auto,
 .size-full,
 .size-large,
@@ -324,7 +331,15 @@ a:hover {
   margin: 15px 0 0;
 }
 .page #head {
-  padding: 90px 0;
+  padding: 45px 0;
+}
+.page #head img {
+  width: 120px;
+  height: 120px;
+}
+.page #head img.brandmark {
+  width: 130px;
+  margin: 0 auto 10px;
 }
 .page #head .title {
   font-size: 49px;
@@ -428,6 +443,40 @@ img {
 
 .section-buttons .btn {
   margin: 6px;
+}
+.language-schema {
+  margin: 20px 0 30px;
+  display: flex;
+  flex-direction: column;
+  gap: 14px;
+}
+.language-schema .schema-row {
+  display: flex;
+  align-items: center;
+  flex-wrap: wrap;
+  gap: 10px;
+}
+.language-schema .schema-box {
+  border: 1px solid #cccccc;
+  background: #ffffff;
+  padding: 10px 14px;
+  border-radius: 6px;
+  font-weight: 600;
+}
+.language-schema .schema-box-wide {
+  min-width: 280px;
+}
+.language-schema .schema-arrow {
+  color: #999999;
+}
+@media (max-width: 768px) {
+  .language-schema .schema-row {
+    flex-direction: column;
+    align-items: flex-start;
+  }
+  .language-schema .schema-box-wide {
+    width: 100%;
+  }
 }
 /* Section - Featured */
 .featured {
