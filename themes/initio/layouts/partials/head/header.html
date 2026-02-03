@@ -1,6 +1,6 @@
 <header id="header">
   {{ $banner := .Site.Params.banner }}
-  <div id="head" class="parallax" data-parallax-speed="0.25" style="background-image:url('{{ $banner | absURL }}');">
+  <div id="head" class="parallax" data-parallax-speed="0.5" style="background-image:url('{{ $banner | absURL }}');">
     <h1 id="logo" class="text-center">
       {{ with .Site.Params.avatar }}
       <img class='img-{{ $.Site.Params.avatarclass | default "circle"}}' src="{{ . | absURL }}" alt="Portrait {{ $.Site.Title }}">
