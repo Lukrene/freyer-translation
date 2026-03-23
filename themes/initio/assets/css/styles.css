@@ -444,39 +444,16 @@ img {
 .section-buttons .btn {
   margin: 6px;
 }
-.language-schema {
-  margin: 20px 0 30px;
-  display: flex;
-  flex-direction: column;
-  gap: 14px;
+.language-diagram {
+  margin: 24px auto 32px;
+  text-align: center;
 }
-.language-schema .schema-row {
-  display: flex;
-  align-items: center;
-  flex-wrap: wrap;
-  gap: 10px;
-}
-.language-schema .schema-box {
-  border: 1px solid #cccccc;
-  background: #ffffff;
-  padding: 10px 14px;
-  border-radius: 6px;
-  font-weight: 600;
-}
-.language-schema .schema-box-wide {
-  min-width: 280px;
-}
-.language-schema .schema-arrow {
-  color: #999999;
-}
-@media (max-width: 768px) {
-  .language-schema .schema-row {
-    flex-direction: column;
-    align-items: flex-start;
-  }
-  .language-schema .schema-box-wide {
-    width: 100%;
-  }
+.language-diagram img {
+  display: block;
+  width: 100%;
+  max-width: 980px;
+  height: auto;
+  margin: 0 auto;
 }
 /* Section - Featured */
 .featured {
