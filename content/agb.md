@@ -43,7 +43,7 @@ Der Dolmetscher ist verpflichtet, sämtliche ihm bei der Ausführung dieses Vert
 
 ### 7. Vergütung
 
-Die Vergütung ist ohne Abzug zahlbar und versteht sich zuzüglich der gesetzlichen Umsatzsteuer. Sie wird mit der Ausführung des Auftrags fällig.
+Die Vergütung ist ohne Abzug zahlbar und versteht sich ggf. zuzüglich der gesetzlichen Umsatzsteuer. Sie wird mit der Ausführung des Auftrags fällig.
 
 Der Dolmetscher hat neben dem vereinbarten Honorar Anspruch auf die Erstattung der tatsächlich anfallenden und mit dem Auftraggeber abgestimmten Aufwendungen. In allen Fällen wird die Mehrwertsteuer, soweit gesetzlich notwendig, zusätzlich berechnet. Der Dolmetscher kann bei umfangreichen Dolmetschaufträgen einen Vorschuss verlangen, der für die Durchführung des Auftrags objektiv notwendig ist.
 
@@ -123,7 +123,7 @@ Der Übersetzer verpflichtet sich, Stillschweigen über alle Tatsachen zu bewahr
 
 (1) Die Rechnungen des Übersetzers sind fällig und zahlbar ohne Abzug innerhalb von 14 Tagen nach Rechnungsdatum.
 
-(2) Alle Preise verstehen sich netto zuzüglich der gesetzlichen Umsatzsteuer.
+(2) Alle Preise verstehen sich netto ggf. zuzüglich der gesetzlichen Umsatzsteuer.
 
 (3) Der Übersetzer hat neben dem vereinbarten Honorar Anspruch auf die Erstattung der tatsächlich angefallenen und mit dem Auftraggeber abgestimmten Aufwendungen. In allen Fällen wird die Mehrwertsteuer, soweit gesetzlich notwendig, zusätzlich berechnet. Der Übersetzer kann bei umfangreichen Übersetzungen einen angemessenen Vorschuss verlangen. Der Übersetzer kann mit dem Auftraggeber vorher schriftlich vereinbaren, dass die Übergabe seiner Arbeit von der vorherigen Zahlung seines vollen Honorars abhängig ist.
 
