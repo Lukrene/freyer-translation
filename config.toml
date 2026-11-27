@@ -89,3 +89,6 @@ canonifyURLs = true
     footer = true
     sharethis = true
     network = "linkedin"
+
+[security]
+  allowContent = ['! ^text/org$']
